@@ -9,7 +9,7 @@
  Oi, gente! Tudo bem?
  Esse código é pra ajudar você a fazer seu próprio botão  usando SwuiftUI.
  */
-// Primeiro, importe SwuiftUI, para adiconar a estrutrura desse framework no seu trabalho. Existem comandos que você só poderá chamar caso tenha importado corretamente a SwiftUI.
+
 import SwiftUI
 // Antes de seguirmos, crie outro file do tipo "SwiftUI File" e o deixe salvo com o nome "PageTwo". A nossa ContentView será a nossa primeira view, ou a nossa primeira página e PageTwo, nossa segunda view.
 struct ContentView: View {
